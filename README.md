@@ -2,7 +2,7 @@
 
 ---
 
-## 0.9.2 07 May 2026
+## v0.9.2 -- 07 May 2026
 
 ### Performance & Memory
 - **Fixed massive memory leak** — NSVisualEffectView `.behindWindow` removed, replaced with lightweight semi-transparent CALayer backgrounds
@@ -23,7 +23,7 @@
 
 ---
 
-## 0.9.1 19 April 2026
+## v0.9.1 -- 19 April 2026
 
 ### Licensing & Backend
 - **Gumroad Integration** - License keys verified against Gumroad API
